@@ -1,0 +1,20 @@
+{
+  "name": "com.unitysupportuk.assettools",
+  "version": "1.0.0",
+  "displayName": "ElfDev Asset Tools",
+  "description": "EldDev Asset Tools package try out",
+  "unity": "2019.1",
+  "documentationUrl": "https://example.com/",
+  "dependencies": {
+ },
+ "keywords": [
+    "Asset",
+    "Tool",
+    "Dependency"
+  ],
+  "author": {
+    "name": "Andy",
+    "email": "andy@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
